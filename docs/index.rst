@@ -70,8 +70,6 @@ in multivariate data (http://www.sthda.com/english/wiki/print.php?id=238).
    :maxdepth: 2
    :caption: Contents:
 
-pyclustertend
-=============
 
 .. toctree::
    :maxdepth: 2
@@ -80,10 +78,3 @@ pyclustertend
 
    pyclustertend
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
