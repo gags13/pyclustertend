@@ -27,12 +27,3 @@ metric module
    :members:
    :undoc-members:
    :show-inheritance:
-
-
-Module contents
----------------
-
-.. automodule:: pyclustertend
-   :members:
-   :undoc-members:
-   :show-inheritance:
