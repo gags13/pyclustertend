@@ -25,6 +25,8 @@ project = 'pyclustertend'
 copyright = '2019, Ismaël Lachheb'
 author = 'Ismaël Lachheb'
 
+master_doc = 'index'
+
 # The full version, including alpha/beta/rc tags
 release = '1.3.3'
 
