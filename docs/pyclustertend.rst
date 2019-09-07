@@ -1,27 +1,33 @@
-pyclustertend package
-=====================
+API Reference
+=============
 
 
 VAT module
 ------------------------
 
 .. automodule:: pyclustertend.VAT
-   :members:
-   :undoc-members:
-   :show-inheritance:
+    :members:
+    :exclude-members:
+    :undoc-members:
+    :show-inheritance:
+    :inherited-members:
 
 hopkins module
 ----------------------------
 
 .. automodule:: pyclustertend.hopkins
-   :members:
-   :undoc-members:
-   :show-inheritance:
+    :members:
+    :exclude-members:
+    :undoc-members:
+    :show-inheritance:
+    :inherited-members:
 
 metric module
 ---------------------------
 
 .. automodule:: pyclustertend.metric
-   :members:
-   :undoc-members:
-   :show-inheritance:
+    :members:
+    :exclude-members:
+    :undoc-members:
+    :show-inheritance:
+    :inherited-members:
