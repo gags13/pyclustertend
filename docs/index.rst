@@ -10,6 +10,13 @@ Welcome to pyclustertend's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+pyclustertend
+=============
+
+.. toctree::
+   :maxdepth: 4
+
+   pyclustertend
 
 
 Indices and tables
