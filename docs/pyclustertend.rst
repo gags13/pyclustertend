@@ -1,8 +1,6 @@
 pyclustertend package
 =====================
 
-Submodules
-----------
 
 VAT module
 ------------------------
