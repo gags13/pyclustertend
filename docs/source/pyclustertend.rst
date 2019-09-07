@@ -1,8 +1,10 @@
 pyclustertend package
 =====================
 
+Submodules
+----------
 
-VAT
+VAT module
 ------------------------
 
 .. automodule:: pyclustertend.VAT
@@ -10,7 +12,7 @@ VAT
    :undoc-members:
    :show-inheritance:
 
-Hopkins test
+hopkins module
 ----------------------------
 
 .. automodule:: pyclustertend.hopkins
@@ -26,3 +28,11 @@ metric module
    :undoc-members:
    :show-inheritance:
 
+
+Module contents
+---------------
+
+.. automodule:: pyclustertend
+   :members:
+   :undoc-members:
+   :show-inheritance:
