@@ -1,0 +1,11 @@
+sphinx == 2.2.0
+sphinx-autobuild                          
+sphinx-gallery                            
+sphinx-rtd-theme                          
+sphinxcontrib-applehelp                   
+sphinxcontrib-devhelp                     
+sphinxcontrib-htmlhelp                    
+sphinxcontrib-jsmath                      
+sphinxcontrib-qthelp                      
+sphinxcontrib-serializinghtml             
+sphinxcontrib-websupport      
