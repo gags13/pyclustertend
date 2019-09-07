@@ -16,11 +16,6 @@ pyclustertend
 =============
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
 
    pyclustertend
-
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

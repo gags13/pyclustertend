@@ -12,9 +12,10 @@ Welcome to pyclustertend's documentation!
 
 
 
-Indices and tables
-==================
+pyclustertend
+=============
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   :maxdepth: 2
+
+   pyclustertend
